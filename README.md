@@ -1,7 +1,7 @@
-# :goat: GAOT: Geometry-Aware Operator Transformer
+# : Geometry Aware Score-based Diffusion Models for Unstructured PDEs on Arbitrary Domains
 
 This repository contains the official source code for the paper:
-**"Geometry Aware Score-based Diffusion Models for Unstructured PDEs on Arbitrary Domains"** 
+**"Geometry-Aware Diffusion Models for Unstructured Datasets"** 
 
 For the implementation of large 3D datasets, e.g., DrivaerNet++, please refer to our other repository: [**GAOT-3D**](https://github.com/Shizheng-Wen/GAOT-3D).
 
