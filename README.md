@@ -1,4 +1,4 @@
-# : Geometry Aware Score-based Diffusion Models for Unstructured PDEs on Arbitrary Domains
+# Geometry Aware Score-based Diffusion Models for Unstructured PDEs on Arbitrary Domains
 
 This repository contains the official source code for the paper:
 **"Geometry-Aware Diffusion Models for Unstructured Datasets"** 
